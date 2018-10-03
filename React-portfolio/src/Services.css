@@ -1,0 +1,46 @@
+.services{
+	background-color: #1d809f;
+	padding-top: 120px;
+	padding-bottom: 120px;
+	text-align: center;
+}
+
+.services h3{
+	font-size: 16px;
+	text-transform: uppercase;
+	color: rgb(236, 184, 7);
+	margin: 0;
+	padding: 0;
+}
+
+.services h2{
+	font-size: 48px;
+	color: white;
+	margin-bottom: 48px;
+	margin-top: 0;
+}
+
+.row{
+	display: flex;
+	justify-content: space-around;
+}
+
+.services > .row span{
+	background-color: white;
+	width: 112px;
+	height: 112px;
+	display: inline-block;
+	border-radius: 50%;
+	font-size: 45px;
+}
+
+ion-icon{
+	padding-top: 30%;
+	margin: 0;
+	color: #1d809f;
+
+}
+
+h4, p{
+	color: rgba(250, 245, 250, 0.8);
+}
