@@ -1,0 +1,48 @@
+.rooms-list li{
+    list-style-type: none;
+}
+
+.rooms-list{
+    background-color: #5ea3d0;
+    overflow: scroll;
+}
+
+.rl{
+    width: 30%;
+    color: white;
+}
+
+.room{
+    cursor: pointer;
+    color: #b0c7d6;
+}
+
+.message-text{
+    padding-left: 1%;
+    padding-bottom: 1%; 
+}
+
+.roomactive{
+    cursor: pointer;
+    color: white;
+}
+
+.message{
+    padding-left: 1%;
+}
+
+.new-room-form form{
+    height: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.new-room-form form{
+    padding-left: 3%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.send-message-form{
+    margin-left: 0.5%;
+}
